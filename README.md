@@ -82,12 +82,4 @@ Estos son algunos de los requisitos de confiabilidad que deben cumplirse para qu
 
 Estos son algunos de los requisitos de compatibilidad que deben cumplirse para que el sitio web de bienes raíces sea accesible y compatible con diferentes tipos de dispositivos y tecnologías.
 
-## Requisitos de software para el sitio web de bienes raíces:
 
-1. Lenguajes de programación: el sitio web debe ser desarrollado con lenguajes de programación modernos, como HTML, CSS, JavaScript y Python, para asegurar una experiencia de usuario rica y atractiva.
-2. Framework: el sitio web debe utilizar un framework web popular y confiable, como Django o Ruby on Rails, para facilitar su desarrollo y mantenimiento.
-3. Bases de datos: el sitio web debe tener una base de datos robusta y segura, como PostgreSQL o MongoDB, para almacenar y gestionar la información de los usuarios y las propiedades.
-4. Integraciones de terceros: el sitio web debe integrarse con plataformas de pago en línea, como PayPal o Stripe, para facilitar las transacciones en línea.
-5. Herramientas de análisis: el sitio web debe incluir herramientas de análisis para recopilar y analizar datos sobre el rendimiento de la plataforma y mejorar la experiencia de usuario.
-
-Estos son algunos de los requisitos de software que deben cumplirse para que el sitio web de bienes raíces sea una plataforma eficiente y fácil de usar para la compra y venta de propiedades en línea.
