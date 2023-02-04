@@ -1,8 +1,62 @@
-# Sistema-Bienes-Raices
+# Introducion
+
+Bienvenidos a la Especificación de Requisitos Software del sistema de bienes raíces. Este documento es una guía clave para el desarrollo y la implementación de un sitio web de bienes raíces eficiente y efectivo.
+
+Los requisitos software son un componente esencial de cualquier proyecto de tecnología y establecen las expectativas y los objetivos para el desarrollo del software. En este documento, se describen los requisitos funcionales, técnicos, de rendimiento, seguridad, compatibilidad y usabilidad que deben cumplirse para lograr un sitio web de bienes raíces eficiente y satisfactorio para los usuarios.
+
+Este documento se utilizará como una guía para los desarrolladores del software, los interesados en el proyecto y los usuarios finales para garantizar que el sistema cumpla con las expectativas y las necesidades de todas las partes interesadas.
+
+A continuación, se detallarán los requisitos software para el sistema de bienes raíces, incluyendo una descripción detallada de las funcionalidades esperadas y los criterios de aceptación. Estamos emocionados de trabajar juntos en este proyecto y de crear un sitio web de bienes raíces eficiente y efectivo.
+
+## Proposito
+
+> El propósito principal del sistema de bienes raíces es proporcionar a los usuarios una plataforma fácil de usar y accesible para la búsqueda y gestión de propiedades.
+> 
+
+El sistema permitirá a los usuarios buscar propiedades en función de criterios específicos, como ubicación, precio y tamaño, y brindará a los agentes de bienes raíces la capacidad de agregar y administrar propiedades en el sistema.
+
+El objetivo es hacer que la búsqueda y la gestión de propiedades sea más eficiente y accesible para los usuarios y los agentes de bienes raíces. Con un sistema intuitivo y fácil de usar, se espera mejorar la experiencia del usuario y aumentar la eficiencia en la gestión de propiedades.
+
+Además, el sistema también se enfocará en proporcionar una experiencia segura y confiable a los usuarios y en garantizar la protección de sus datos personales y financieros. Se buscará también asegurar la compatibilidad del sistema con diferentes dispositivos y navegadores para garantizar una experiencia de usuario uniforme.
+
+En resumen, el objetivo principal del sistema de bienes raíces es mejorar la eficiencia y la accesibilidad en la búsqueda y gestión de propiedades y proporcionar una experiencia segura y satisfactoria para los usuarios y los agentes de bienes raíces.
+
+## Ambito del sistema
+
+El ámbito del sistema de bienes raíces incluirá la funcionalidad para la búsqueda y gestión de propiedades. 
+
+Esto incluirá:
+
+1. Búsqueda de propiedades: Los usuarios podrán buscar propiedades en función de criterios específicos, como ubicación, precio y tamaño.
+2. Perfiles de agentes: Los agentes de bienes raíces tendrán la capacidad de crear y administrar sus perfiles en el sistema.
+3. Listados de propiedades: Los agentes de bienes raíces podrán agregar y administrar listados de propiedades en el sistema.
+4. Reservas y pagos: El sistema permitirá a los usuarios realizar reservas y pagos en línea para propiedades seleccionadas.
+5. Comunicación con agentes: El sistema permitirá a los usuarios comunicarse directamente con los agentes de bienes raíces a través de un sistema integrado de mensajería.
+6. Seguridad y privacidad: El sistema se enfocará en garantizar la seguridad y privacidad de los datos personales y financieros de los usuarios.
+7. Compatibilidad: Se buscará asegurar la compatibilidad del sistema con diferentes dispositivos y navegadores para garantizar una experiencia de usuario uniforme.
+
+Este ámbito es una guía general y puede estar sujeto a cambios en función de las necesidades y requisitos específicos del proyecto.
+
+## Definiciones
+
+Las definiciones del sistema de bienes raíces incluirán términos específicos y conceptos relevantes para el desarrollo y uso del sistema. Algunas de estas definiciones pueden incluir:
+
+1. Usuario: Una persona que accede al sistema para buscar o administrar propiedades.
+2. Agente de bienes raíces: Un profesional que administra y vende propiedades a través del sistema.
+3. Propiedad: Una unidad de bienes raíces que se ofrece para su venta o alquiler a través del sistema.
+4. Búsqueda: La acción de filtrar propiedades en función de criterios específicos, como ubicación, precio y tamaño.
+5. Listado: Un conjunto de propiedades ofrecidas por un agente de bienes raíces a través del sistema.
+6. Reserva: Un acuerdo entre un usuario y un agente de bienes raíces para retener una propiedad durante un período específico.
+7. Pago: La transacción financiera que se realiza en línea para confirmar una reserva.
+8. Perfil de agente: La página web que muestra la información de un agente de bienes raíces, incluyendo sus listados y comentarios de los usuarios.
+
+Estas definiciones son una guía general y pueden estar sujeto a cambios en función de las necesidades y requisitos específicos del proyecto.
+
+---
+
+# **Descripción General**
+
 Proyecto para crear un sitio web de bienes raíces con el objetivo de proporcionar una plataforma fácil de usar para los compradores y vendedores de bienes raíces. En un mercado cada vez más competitivo, es importante tener acceso a una herramienta en línea que permita a los usuarios encontrar y listar propiedades de manera eficiente y sencilla.
-
-# **Sistema de bienes Raíces**
-
 
 Este proyecto combinará una búsqueda avanzada, una amplia base de datos de propiedades en venta y una interfaz de usuario intuitiva para brindar una experiencia de usuario excepcional. Además, se implementarán medidas de seguridad rigurosas para proteger la privacidad y la información confidencial de los usuarios.
 
@@ -23,8 +77,6 @@ Características clave:
 11. Notificaciones por correo electrónico: los usuarios pueden recibir notificaciones por correo electrónico sobre propiedades nuevas o actualizadas que cumplen con sus criterios de búsqueda.
 12. Integración de pago seguro: el sitio web puede integrarse con un sistema de pago seguro para permitir a los compradores y vendedores realizar transacciones en línea de manera segura.
 
----
-
 ## Requisitos funcionales que se deben cumplir para el sitio web de bienes raíces:
 
 1. Búsqueda y filtrado de propiedades: los usuarios deben poder buscar y filtrar propiedades en venta en función de criterios como ubicación, precio, tamaño, entre otros.
@@ -38,48 +90,3 @@ Características clave:
 9. Interfaz de usuario intuitiva: el sitio web debe ser fácil de usar y navegar, con una interfaz de usuario clara y sencilla.
 
 Estos son algunos de los requisitos funcionales que deben cumplirse para el sitio web de bienes raíces para garantizar una experiencia de usuario eficiente y valiosa.
-
-## Requisitos de rendimiento que deben cumplirse para el sitio web de bienes raíces:
-
-1. Rapidez de carga: el sitio web debe cargarse rápidamente, con tiempos de respuesta rápidos para mejorar la experiencia de usuario.
-2. Escalabilidad: el sitio web debe ser escalable para manejar un creciente número de usuarios y transacciones sin perder velocidad o funcionalidad.
-3. Disponibilidad: el sitio web debe estar disponible las 24 horas del día, los 7 días de la semana, sin interrupciones ni fallas.
-4. Seguridad: el sitio web debe ser seguro y proteger la privacidad y los datos de los usuarios, incluyendo información financiera y de identificación.
-5. Optimización para motores de búsqueda: el sitio web debe estar optimizado para los motores de búsqueda para mejorar su visibilidad y posicionamiento en los resultados de búsqueda.
-6. Compatibilidad con dispositivos móviles: el sitio web debe ser compatible con dispositivos móviles y ofrecer una experiencia de usuario optimizada en smartphones y tabletas.
-7. Integración con otras plataformas: el sitio web debe ser compatible y poder integrarse con otras plataformas, como redes sociales y sistemas de pago.
-
-Estos son algunos de los requisitos de rendimiento que deben cumplirse para garantizar un sitio web de bienes raíces rápido, seguro y eficiente que brinde una experiencia de usuario óptima.
-
-## Requisitos comerciales que deben cumplirse para el sitio web de bienes raíces:
-
-1. Funcionamiento de la plataforma de comercio electrónico: el sitio web debe incluir una plataforma de comercio electrónico que permita a los usuarios comprar y vender propiedades en línea.
-2. Integración con sistemas de pago: el sitio web debe integrarse con sistemas de pago seguros y fiables para permitir transacciones en línea.
-3. Monitoreo de la actividad del usuario: el sitio web debe monitorear la actividad del usuario para identificar posibles fraudes o comportamientos inapropiados.
-4. Análisis de datos: el sitio web debe incluir herramientas de análisis de datos para permitir a los dueños de la propiedad y a los agentes inmobiliarios obtener información valiosa sobre sus clientes y sus necesidades.
-5. Servicios de suscripción: el sitio web puede ofrecer servicios de suscripción premium a los usuarios, como acceso a una base de datos más amplia de propiedades o herramientas de búsqueda avanzadas.
-6. Publicidad en línea: el sitio web puede incluir opciones de publicidad en línea para permitir a los dueños de la propiedad y a los agentes inmobiliarios promocionar sus propiedades a un público más amplio.
-
-Estos son algunos de los requisitos comerciales que deben cumplirse para que el sitio web de bienes raíces funcione eficientemente como una plataforma de comercio electrónico segura y confiable para la compra y venta de propiedades en línea.
-
-## Requisitos de confiabilidad para el sitio web de bienes raíces:
-
-1. Disponibilidad: el sitio web debe estar disponible las 24 horas del día, los 7 días de la semana, para permitir a los usuarios acceder a la información y realizar transacciones en línea en cualquier momento.
-2. Redundancia: el sitio web debe tener medidas de redundancia en su arquitectura para garantizar que la plataforma continúe funcionando incluso en caso de fallas en el sistema.
-3. Copias de seguridad: el sitio web debe tener un plan de copias de seguridad para garantizar que los datos y transacciones de los usuarios sean seguros y se puedan restaurar en caso de una falla.
-4. Protección contra ataques: el sitio web debe implementar medidas de seguridad adecuadas para protegerse contra posibles ataques cibernéticos.
-5. Monitoreo: el sitio web debe incluir herramientas de monitoreo para detectar problemas y fallas en tiempo real y responder rápidamente a cualquier problema.
-6. Mantenimiento preventivo: el sitio web debe tener un plan de mantenimiento preventivo para garantizar que el sistema esté actualizado y funcione de manera óptima.
-
-Estos son algunos de los requisitos de confiabilidad que deben cumplirse para que el sitio web de bienes raíces sea una plataforma confiable y segura para la compra y venta de propiedades en línea.
-
-## Requisitos de compatibilidad para el sitio web de bienes raíces:
-
-1. Compatibilidad con navegadores: el sitio web debe ser compatible con los navegadores más populares, como Google Chrome, Mozilla Firefox, Microsoft Edge y Safari, para asegurar una experiencia de usuario consistente.
-2. Compatibilidad con dispositivos móviles: el sitio web debe ser compatible con diferentes tipos de dispositivos móviles, como smartphones y tabletas, para permitir a los usuarios acceder a la plataforma desde cualquier lugar y en cualquier momento.
-3. Compatibilidad con sistemas operativos: el sitio web debe ser compatible con diferentes sistemas operativos, como Windows, macOS, iOS y Android, para asegurar que los usuarios puedan acceder a la plataforma desde cualquier tipo de dispositivo.
-4. Compatibilidad con tecnologías emergentes: el sitio web debe ser compatible con tecnologías emergentes, como la inteligencia artificial y la realidad virtual, para ofrecer a los usuarios una experiencia de usuario avanzada y enriquecedora.
-
-Estos son algunos de los requisitos de compatibilidad que deben cumplirse para que el sitio web de bienes raíces sea accesible y compatible con diferentes tipos de dispositivos y tecnologías.
-
-
